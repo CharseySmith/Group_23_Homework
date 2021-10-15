@@ -1,12 +1,12 @@
 {
 	"name": "Yana Chulochnikova",
-	"age": "30",
-	"pets": "0",
-	"expected salary": "$5000",
+	"age": 30,
+	"pets": null,
+	"expected_salary": "$5000",
 
-  "Favourite movie": "What we do in the shadows",
-  "Favourite series": "The Office",
-  "Favourite food": "Seafood pasta",
-  "Favourite season": "Autumn",
-  "A country I'd like to visit": "Sweden"
+  "Favourite_movie": "What we do in the shadows",
+  "Favourite_series": "The Office",
+  "Favourite_food": "Seafood pasta",
+  "Favourite_season": "Autumn",
+  "Favourite_country": "Sweden"
 }
