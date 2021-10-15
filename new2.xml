@@ -1,6 +1,12 @@
 <info>
-	<name>Yana Chulochnikova</name>
+        <name>Yana Chulochnikova</name>
 	<age>30</age>
 	<pets>0</pets>
 	<expected_salary>$5000</expected_salary>
+ 	 <Favourite_movie>What we do in the shadows</Favourite_movie>
+ 	 <Favourite_series>The Office</Favourite_series>
+ 	 <Favourite_food>Seafood pasta</Favourite_food>
+	 <Favourite_season>Autumn</Favourite_season>
+ 	 <Favourite_country>Sweden</Favourite_country>
+
 </info>
